@@ -1,7 +1,7 @@
 # Project Starter
 
 ## Introduction
-This project is a landing page split in half by two side-by-side images.  If either image is hovered over, it will expand to fill most of the page.
+This project is a landing page split in half with two side-by-side images.  If either image is hovered over, it will expand to fill most of the page.
 
 ## Technologies
 This project uses HTML, CSS, and vanilla JS.
