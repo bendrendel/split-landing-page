@@ -78,6 +78,7 @@ h1 {
     background: url('images/playstation.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-x: center;
 }
 
 .split.left::before {
@@ -93,6 +94,7 @@ h1 {
     background: url('images/xbox.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-x: center;
 }
 
 .split.right::before {
