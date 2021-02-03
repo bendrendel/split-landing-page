@@ -1,4 +1,4 @@
-# Project Starter
+# Split Landing Page
 
 ## Introduction
 This project is a landing page split in half with two side-by-side images.  If either image is hovered over, it will expand to fill most of the page.
